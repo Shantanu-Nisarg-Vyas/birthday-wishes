@@ -1,0 +1,17 @@
+.body_background {
+    background-image:url(balloon.gif);
+    background-position:center;
+    background-size:cover;
+}
+
+#HappyBday {
+    background-color: aqua;
+    color: brown;
+}
+
+#canvas1 {
+    border-radius: 20px;
+    border-color: chocolate;
+    border-style: solid;
+    background-color: chocolate;
+}
